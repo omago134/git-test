@@ -2,7 +2,7 @@
 
 
 1.작업한 내용 
-> .gitignore 생성 
+> .gitignore 생성 \n
 > hello.txt 생성 
 
 
